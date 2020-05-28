@@ -1,6 +1,6 @@
 # game_app
 
-A new Flutter application.
+this avery complex ui for game app
 
 ## Getting Started
 
